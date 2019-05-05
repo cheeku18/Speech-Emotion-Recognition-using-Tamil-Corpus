@@ -1,1 +1,5 @@
-# Speech-Emotion-Recognition
+# Speech-Emotion-Recognition-Using-Tamil Corpus
+<p align="center">
+
+<p>   In human machine interaction, automatic speech emotion recognition is  a challenging and an important task It has been paid close attention in current research area. Speech is an attractive and effective medium due to its several features expressing attitude and emotions. In this project a machine learning model is built. It is carried out for identification of five basic emotional states of the speaker such as anger, happiness, sad, fear and neutral. Finding the user’s emotion can be used for business development and psychological analysis. The motivation of the project is to build the Tamil emotional corpus and to make Tamil emotional corpus available in public domain. Tamil Movies will be used as main resource for building the emotional corpus. Basic emotions like happy, neutral, sad, fear and anger are taken for this analysis purpose. And also for the accuracy purpose from the play both Male and Female Speakers emotional speech have been considered. The observer's perception test result will be used to evaluate annotation of emotion. Tamil emotional speech corpus has been built and Emotion Recognition engine has been constructed using Support Vector Machine (SVM) classifier with the features like MFCC and Fourier Transform.</p>
+
